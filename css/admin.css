@@ -1,0 +1,26 @@
+.deleteRow {
+background-color: transparent !important;
+background: url(images/cross.png) no-repeat top left;
+border: 0px !important;
+min-width: 20px;
+vertical-align: middle;
+cursor: pointer;
+}
+.cute_profiles_i {display:block;width:32px;height:32px;padding:0;margin:0 0 12px 0;background-size: 32px 32px;}
+div.cute_profiles_style{left:none !important;right:0 !important;}
+/*Color Picker*/
+.color-picker-wrap {position: absolute;display: none;background: #fff;border: 3px solid #ccc;padding: 3px;z-index: 1000;}
+td{vertical-align:bottom;}
+#cute_profiles_table .medium-text{width:160px;}
+#cute_profiles_table th {width:100px;}
+#cute_profiles_settings h2 {font-family:'PT Sans Narrow', sans-serif;background:#dddddd;
+padding: 10px;
+margin-top: 30px;}
+.top_heading {font-family: 'Pacifico', cursive;margin-bottom:15px !important;}
+.form-table {margin-left:20px;}
+.form-table td {padding:0px;}
+.form-table th {padding: 5px 10px 20px 0;}
+@media only screen and (max-width: 782px) {
+#cute_profiles_settings .form-table td input[type=text] {display:inline-block;width:60%;}.postbox {display:none;}}
+.cute_sharing_i {display:block;width:32px;height:32px;padding:0;margin:0 0 12px 0;background-size: 32px 32px;}
+div.cute_sharing_style{left:none !important;right:0 !important;}

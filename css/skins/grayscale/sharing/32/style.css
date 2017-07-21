@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.cute_sharing_style{
+clear:both;
+position:fixed;
+border:0;
+margin:0;
+padding:20px 20px 8px 20px;
+background:#ffffff;
+}
+.cute_sharing_afterpost{position:relative !important;top:auto !important;padding:0px !important;}
+.cute_sharing_afterpost .cute_sharing_i {display:inline-block !important;}
+.cute_sharing_i {display:block;width:32px;height:32px;padding:0;margin:0 0 12px 0;background-size: 32px 32px;}
+div.cute_sharing_style a.cute_sharing_0 {background:url(./images/facebook.png) no-repeat 0 0;}
+div.cute_sharing_style a.cute_sharing_1 {background:url(./images/twitter.png) no-repeat 0 0;}
+div.cute_sharing_style a.cute_sharing_2 {background:url(./images/googleplus.png) no-repeat 0 0;}
+div.cute_sharing_style a.cute_sharing_3 {background:url(./images/digg.png) no-repeat 0 0;}
+div.cute_sharing_style a.cute_sharing_4 {background:url(./images/reddit.png) no-repeat 0 0;}

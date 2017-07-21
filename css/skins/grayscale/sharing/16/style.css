@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.cute_profiles_style{
+clear:both;
+position:fixed;
+border:0;
+margin:0;
+padding:10px;
+}
+.cute_profiles_i{display:block;width:16px;height:16px;padding:0;margin:0 0 8px 0;background-size: 16px 16px;}
+div.cute_profiles_style a.cute_profiles_0 {background:url(./images/facebook.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_1 {background:url(./images/twitter.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_2 {background:url(./images/googleplus.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_3 {background:url(./images/pinterest.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_4 {background:url(./images/digg.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_5 {background:url(./images/reddit.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_6 {background:url(./images/stumbleupon.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_7 {background:url(./images/linkedin.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_8 {background:url(./images/rss.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_9 {background:url(./images/blogger.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_10 {background:url(./images/wordpress.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_11 {background:url(./images/deviantart.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_12 {background:url(./images/dribble.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_13 {background:url(./images/email.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_14 {background:url(./images/dropbox.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_15 {background:url(./images/flickr.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_16 {background:url(./images/foursquare.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_17 {background:url(./images/instagram.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_18 {background:url(./images/friendfeed.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_19 {background:url(./images/lastfm.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_20 {background:url(./images/myspace.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_21 {background:url(./images/skype.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_22 {background:url(./images/tumblr.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_23 {background:url(./images/vimeo.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_24 {background:url(./images/youtube.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_25 {background:url(./images/yahoo.png) no-repeat 0 0;}
+div.cute_profiles_style a.cute_profiles_26 {background:url(./images/pulse.png) no-repeat 0 0;}
